@@ -1,0 +1,29 @@
+const accountId  = 2500
+let accountEmail = "nikita@gmail.com"
+var accountPwd = "123456"
+accountCity = "jalandhar"
+let accountState;
+
+//accountId = 4
+accountEmail="nikita@gmail.com"
+ accountPwd="123456"
+ accountcity="delhi"
+
+//to print in table
+ console.table([accountId,accountEmail,accountPwd,accountCity,accountState])
+ //
+
+/*
+prefer not to use var because it has issue in block scope and functional scope
+*/
+//  console.log("accountEmail");
+//  console.log("accountPwd");
+// console.log(accountId)
+
+
+
+
+
+
+
+

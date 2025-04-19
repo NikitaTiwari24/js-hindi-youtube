@@ -1,0 +1,24 @@
+//1
+// let age="20"
+// console.log(typeof age);
+// console.log(typeof age);
+
+
+//2
+// let score = true
+// let valueInNumber = Number(score)
+// console.log (typeof valueInNumber);
+// console.log(valueInNumber);
+
+
+//3
+let isLoggedIn = "nikita"
+let booleanIsLoggedIn = Boolean(isLoggedIn)
+console.log(booleanisLoggedIn);
+
+
+
+
+
+
+

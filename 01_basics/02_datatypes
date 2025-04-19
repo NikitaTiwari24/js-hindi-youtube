@@ -1,0 +1,36 @@
+"use strict";   ///treat all js code as newer version
+
+let age = 23
+let name = "nikita"
+let boolean = true
+let num ;
+console.table([age,name,boolean,num])
+
+// number 2 to 53
+// null is standalone value
+// undefined means not defined
+// symbol => unique
+
+console.log(typeof "hitesh")
+console.log(typeof undefined);
+console.log(typeof null);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
