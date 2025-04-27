@@ -9,6 +9,6 @@ let myDate = new Date(2024,10,25);
 console.log(myDate.toLocaleString());
 
 let newDate = new Date("2025-01-26")
-console.log(newDate.toLocaleString());
+console.log(newDate.toLocaleString());            // we prfer only mm dd yy syntax not others
 
 
