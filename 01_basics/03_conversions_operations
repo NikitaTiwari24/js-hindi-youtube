@@ -10,11 +10,36 @@
 // console.log (typeof valueInNumber);
 // console.log(valueInNumber);
 
+//3 not runnable this code
+// let isLoggedIn = "nikita"
+// let booleanIsLoggedIn = Boolean(isLoggedIn)
+// console.log(booleanisLoggedIn);
 
-//3
-let isLoggedIn = "nikita"
-let booleanIsLoggedIn = Boolean(isLoggedIn)
-console.log(booleanisLoggedIn);
+
+//on next day doing conversions
+let str1="nikita "
+let str2 = "tiwari"
+let str3=str1+str2
+console.log(str3);
+
+
+console.log("1"+2);
+console.log(2 + "1");
+console.log(1+1+"3");
+
+console.log(2+3+4+"3")
+console.log((2+3)+4);
+
+
+
+
+
+
+
+
+
+
+
 
 
 

@@ -1,0 +1,14 @@
+let Date1 = new Date()     //created instance or object of date1
+// console.log(Date1.toDateString())
+// console.log(Date1.toLocaleString());
+// console.log(Date1.toDateString());
+// console.log(typeof Date1);
+
+
+let myDate = new Date(2024,10,25);
+console.log(myDate.toLocaleString());
+
+let newDate = new Date("2025-01-26")
+console.log(newDate.toLocaleString());
+
+

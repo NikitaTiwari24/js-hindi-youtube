@@ -1,0 +1,40 @@
+const name="nikita"
+const repoCount=40
+// console.log(name + repoCount + 'value')
+
+console.log(`my name is ${name} and repocount is ${repoCount}`);
+
+//correct way to declare string
+const name1 = new String('nikita');
+console.log(name[2]);
+console.log(name1.__proto__);    // op {}
+
+console.log(name.length)
+console.log(name.toUpperCase());
+console.log(name.charAt(2));
+console.log(name.indexOf('k'));
+
+const newString = name.substring(0,5)
+console.log(newString);
+
+
+const anotherString = name.slice(-8,4)
+console.log(anotherString );
+
+
+const string = "         google            "
+console.log(string);
+
+console.log(string.trim());     // trim removes extra space
+
+
+const url = "https:/nikita20%tiwari.com"   //in this url spacing will ignore
+console.log(url.replace('20%', "-"))
+
+
+console.log(url.includes('microsoft'))     // gives t or f
+console.log(name.split('-'))
+
+
+
+

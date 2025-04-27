@@ -1,0 +1,29 @@
+// let myYouTubename = "nikita@gmail.com";
+// myYouTubename = "coding"
+
+// console.log(myYouTubename);      // op: is coding
+
+
+
+//now
+let myYouTubename="nikita04@gmail.com"
+ let anothername = "chai aur code"
+console.log(anothername);    //op: is chai aur code
+
+
+
+let userOne ={
+    email:"nikita@gmail.com",
+    upi : "700@pylbytes",
+}
+
+let userTwo = userOne
+
+userTwo.email = "user@gmail.com"
+console.log(userOne.email);     // op: same output
+console.log(userTwo.email);
+
+
+
+
+
